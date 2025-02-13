@@ -1,0 +1,69 @@
+{"movistar":{
+    "clientes":[
+    {
+        "numIden":"104",
+        "nombre":"pedrito",
+        "añosServ":"5",
+        "sevicio" :"plan1",
+        "direccion":"cra 56"
+
+    },
+
+    {
+        "numIden":"105",
+        "nombre":"aura",
+        "añosServ":"5",
+        "sevicio" :"plan1",
+        "direccion":"cra 55"
+        
+
+    },
+
+    {
+        "numIden":"106",
+        "nombre":"dante",
+        "añosServ":"5",
+        "sevicio" :"plan1",
+        "direccion":"cra 54"
+
+    },
+
+    {
+        "numIden":"107",
+        "nombre":"tomas",
+        "añosServ":"5",
+        "sevicio" :"plan1",
+        "direccion":"cra 53"
+
+    },
+
+    {
+        "numIden":"107",
+        "nombre":"luis",
+        "añosServ":"5",
+        "sevicio" :"plan1",
+        "direccion":"cra 52"
+
+    }
+],
+"operador":[
+    {
+        "operador":"1",
+        "contraseña":"12345689"
+
+    }
+
+
+],
+"servicios":[
+    {
+        "plan1":"30mb",
+        "plan2":"500mb",
+        "plan3":"1gb"
+
+
+    }
+]
+
+}
+}
